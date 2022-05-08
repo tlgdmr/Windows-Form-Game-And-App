@@ -1,0 +1,10 @@
+D:\Project C#\WindowsFormCanteenPrice\bin\Debug\WindowsFormCanteenPrice.exe.config
+D:\Project C#\WindowsFormCanteenPrice\bin\Debug\WindowsFormCanteenPrice.exe
+D:\Project C#\WindowsFormCanteenPrice\bin\Debug\WindowsFormCanteenPrice.pdb
+D:\Project C#\WindowsFormCanteenPrice\obj\Debug\WindowsFormCanteenPrice.csprojAssemblyReference.cache
+D:\Project C#\WindowsFormCanteenPrice\obj\Debug\WindowsFormCanteenPrice.Form1.resources
+D:\Project C#\WindowsFormCanteenPrice\obj\Debug\WindowsFormCanteenPrice.Properties.Resources.resources
+D:\Project C#\WindowsFormCanteenPrice\obj\Debug\WindowsFormCanteenPrice.csproj.GenerateResource.cache
+D:\Project C#\WindowsFormCanteenPrice\obj\Debug\WindowsFormCanteenPrice.csproj.CoreCompileInputs.cache
+D:\Project C#\WindowsFormCanteenPrice\obj\Debug\WindowsFormCanteenPrice.exe
+D:\Project C#\WindowsFormCanteenPrice\obj\Debug\WindowsFormCanteenPrice.pdb

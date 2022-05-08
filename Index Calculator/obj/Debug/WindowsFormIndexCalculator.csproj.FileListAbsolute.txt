@@ -1,0 +1,11 @@
+D:\Project C#\WindowsFormIndexCalculator\bin\Debug\WindowsFormIndexCalculator.exe.config
+D:\Project C#\WindowsFormIndexCalculator\bin\Debug\WindowsFormIndexCalculator.exe
+D:\Project C#\WindowsFormIndexCalculator\bin\Debug\WindowsFormIndexCalculator.pdb
+D:\Project C#\WindowsFormIndexCalculator\obj\Debug\WindowsFormIndexCalculator.csprojAssemblyReference.cache
+D:\Project C#\WindowsFormIndexCalculator\obj\Debug\WindowsFormIndexCalculator.Form1.resources
+D:\Project C#\WindowsFormIndexCalculator\obj\Debug\WindowsFormIndexCalculator.Properties.Resources.resources
+D:\Project C#\WindowsFormIndexCalculator\obj\Debug\WindowsFormIndexCalculator.csproj.GenerateResource.cache
+D:\Project C#\WindowsFormIndexCalculator\obj\Debug\WindowsFormIndexCalculator.csproj.CoreCompileInputs.cache
+D:\Project C#\WindowsFormIndexCalculator\obj\Debug\WindowsFormIndexCalculator.exe
+D:\Project C#\WindowsFormIndexCalculator\obj\Debug\WindowsFormIndexCalculator.pdb
+D:\Project C#\WindowsFormIndexCalculator\obj\Debug\WindowsFormIndexCalculator.IdealWeight.resources

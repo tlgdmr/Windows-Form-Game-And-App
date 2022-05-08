@@ -1,0 +1,10 @@
+D:\Project C#\WindowsFormRockPaperScissors\bin\Debug\WindowsFormRockPaperScissors.exe.config
+D:\Project C#\WindowsFormRockPaperScissors\bin\Debug\WindowsFormRockPaperScissors.exe
+D:\Project C#\WindowsFormRockPaperScissors\bin\Debug\WindowsFormRockPaperScissors.pdb
+D:\Project C#\WindowsFormRockPaperScissors\obj\Debug\WindowsFormRockPaperScissors.csprojAssemblyReference.cache
+D:\Project C#\WindowsFormRockPaperScissors\obj\Debug\WindowsFormRockPaperScissors.Form1.resources
+D:\Project C#\WindowsFormRockPaperScissors\obj\Debug\WindowsFormRockPaperScissors.Properties.Resources.resources
+D:\Project C#\WindowsFormRockPaperScissors\obj\Debug\WindowsFormRockPaperScissors.csproj.GenerateResource.cache
+D:\Project C#\WindowsFormRockPaperScissors\obj\Debug\WindowsFormRockPaperScissors.csproj.CoreCompileInputs.cache
+D:\Project C#\WindowsFormRockPaperScissors\obj\Debug\WindowsFormRockPaperScissors.exe
+D:\Project C#\WindowsFormRockPaperScissors\obj\Debug\WindowsFormRockPaperScissors.pdb

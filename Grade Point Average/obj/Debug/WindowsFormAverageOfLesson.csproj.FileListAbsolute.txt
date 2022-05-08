@@ -1,0 +1,10 @@
+D:\Project C#\WindowsFormAverageOfLesson\bin\Debug\WindowsFormAverageOfLesson.exe.config
+D:\Project C#\WindowsFormAverageOfLesson\bin\Debug\WindowsFormAverageOfLesson.exe
+D:\Project C#\WindowsFormAverageOfLesson\bin\Debug\WindowsFormAverageOfLesson.pdb
+D:\Project C#\WindowsFormAverageOfLesson\obj\Debug\WindowsFormAverageOfLesson.csprojAssemblyReference.cache
+D:\Project C#\WindowsFormAverageOfLesson\obj\Debug\WindowsFormAverageOfLesson.Form1.resources
+D:\Project C#\WindowsFormAverageOfLesson\obj\Debug\WindowsFormAverageOfLesson.Properties.Resources.resources
+D:\Project C#\WindowsFormAverageOfLesson\obj\Debug\WindowsFormAverageOfLesson.csproj.GenerateResource.cache
+D:\Project C#\WindowsFormAverageOfLesson\obj\Debug\WindowsFormAverageOfLesson.csproj.CoreCompileInputs.cache
+D:\Project C#\WindowsFormAverageOfLesson\obj\Debug\WindowsFormAverageOfLesson.exe
+D:\Project C#\WindowsFormAverageOfLesson\obj\Debug\WindowsFormAverageOfLesson.pdb

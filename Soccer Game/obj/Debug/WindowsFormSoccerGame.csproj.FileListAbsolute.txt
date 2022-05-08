@@ -1,0 +1,10 @@
+D:\Project C#\WindowsFormSoccerGame\bin\Debug\WindowsFormSoccerGame.exe.config
+D:\Project C#\WindowsFormSoccerGame\bin\Debug\WindowsFormSoccerGame.exe
+D:\Project C#\WindowsFormSoccerGame\bin\Debug\WindowsFormSoccerGame.pdb
+D:\Project C#\WindowsFormSoccerGame\obj\Debug\WindowsFormSoccerGame.csprojAssemblyReference.cache
+D:\Project C#\WindowsFormSoccerGame\obj\Debug\WindowsFormSoccerGame.Form1.resources
+D:\Project C#\WindowsFormSoccerGame\obj\Debug\WindowsFormSoccerGame.Properties.Resources.resources
+D:\Project C#\WindowsFormSoccerGame\obj\Debug\WindowsFormSoccerGame.csproj.GenerateResource.cache
+D:\Project C#\WindowsFormSoccerGame\obj\Debug\WindowsFormSoccerGame.csproj.CoreCompileInputs.cache
+D:\Project C#\WindowsFormSoccerGame\obj\Debug\WindowsFormSoccerGame.exe
+D:\Project C#\WindowsFormSoccerGame\obj\Debug\WindowsFormSoccerGame.pdb

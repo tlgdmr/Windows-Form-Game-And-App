@@ -1,0 +1,10 @@
+D:\Project C#\WindowsFormBouncingBall\bin\Debug\WindowsFormBouncingBall.exe.config
+D:\Project C#\WindowsFormBouncingBall\bin\Debug\WindowsFormBouncingBall.exe
+D:\Project C#\WindowsFormBouncingBall\bin\Debug\WindowsFormBouncingBall.pdb
+D:\Project C#\WindowsFormBouncingBall\obj\Debug\WindowsFormBouncingBall.Form1.resources
+D:\Project C#\WindowsFormBouncingBall\obj\Debug\WindowsFormBouncingBall.Properties.Resources.resources
+D:\Project C#\WindowsFormBouncingBall\obj\Debug\WindowsFormBouncingBall.csproj.GenerateResource.cache
+D:\Project C#\WindowsFormBouncingBall\obj\Debug\WindowsFormBouncingBall.csproj.CoreCompileInputs.cache
+D:\Project C#\WindowsFormBouncingBall\obj\Debug\WindowsFormBouncingBall.exe
+D:\Project C#\WindowsFormBouncingBall\obj\Debug\WindowsFormBouncingBall.pdb
+D:\Project C#\WindowsFormBouncingBall\obj\Debug\WindowsFormBouncingBall.csprojAssemblyReference.cache

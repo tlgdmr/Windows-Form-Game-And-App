@@ -1,0 +1,10 @@
+D:\Project C#\WindwsFormGuessingGame\bin\Debug\WindwsFormGuessingGame.exe.config
+D:\Project C#\WindwsFormGuessingGame\bin\Debug\WindwsFormGuessingGame.exe
+D:\Project C#\WindwsFormGuessingGame\bin\Debug\WindwsFormGuessingGame.pdb
+D:\Project C#\WindwsFormGuessingGame\obj\Debug\WindwsFormGuessingGame.csprojAssemblyReference.cache
+D:\Project C#\WindwsFormGuessingGame\obj\Debug\WindwsFormGuessingGame.Form1.resources
+D:\Project C#\WindwsFormGuessingGame\obj\Debug\WindwsFormGuessingGame.Properties.Resources.resources
+D:\Project C#\WindwsFormGuessingGame\obj\Debug\WindwsFormGuessingGame.csproj.GenerateResource.cache
+D:\Project C#\WindwsFormGuessingGame\obj\Debug\WindwsFormGuessingGame.csproj.CoreCompileInputs.cache
+D:\Project C#\WindwsFormGuessingGame\obj\Debug\WindwsFormGuessingGame.exe
+D:\Project C#\WindwsFormGuessingGame\obj\Debug\WindwsFormGuessingGame.pdb

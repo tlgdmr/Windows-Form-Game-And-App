@@ -1,0 +1,10 @@
+D:\Project C#\WinFormCatchingGame\bin\Debug\WinFormCatchingGame.exe.config
+D:\Project C#\WinFormCatchingGame\bin\Debug\WinFormCatchingGame.exe
+D:\Project C#\WinFormCatchingGame\bin\Debug\WinFormCatchingGame.pdb
+D:\Project C#\WinFormCatchingGame\obj\Debug\WinFormCatchingGame.Form1.resources
+D:\Project C#\WinFormCatchingGame\obj\Debug\WinFormCatchingGame.Properties.Resources.resources
+D:\Project C#\WinFormCatchingGame\obj\Debug\WinFormCatchingGame.csproj.GenerateResource.cache
+D:\Project C#\WinFormCatchingGame\obj\Debug\WinFormCatchingGame.csproj.CoreCompileInputs.cache
+D:\Project C#\WinFormCatchingGame\obj\Debug\WinFormCatchingGame.exe
+D:\Project C#\WinFormCatchingGame\obj\Debug\WinFormCatchingGame.pdb
+D:\Project C#\WinFormCatchingGame\obj\Debug\WinFormCatchingGame.csprojAssemblyReference.cache

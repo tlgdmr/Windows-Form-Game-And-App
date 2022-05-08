@@ -1,0 +1,10 @@
+D:\Project C#\WindowsFormShootingGameV2\bin\Debug\WindowsFormShootingGameV2.exe.config
+D:\Project C#\WindowsFormShootingGameV2\bin\Debug\WindowsFormShootingGameV2.exe
+D:\Project C#\WindowsFormShootingGameV2\bin\Debug\WindowsFormShootingGameV2.pdb
+D:\Project C#\WindowsFormShootingGameV2\obj\Debug\WindowsFormShootingGameV2.Form1.resources
+D:\Project C#\WindowsFormShootingGameV2\obj\Debug\WindowsFormShootingGameV2.Properties.Resources.resources
+D:\Project C#\WindowsFormShootingGameV2\obj\Debug\WindowsFormShootingGameV2.csproj.GenerateResource.cache
+D:\Project C#\WindowsFormShootingGameV2\obj\Debug\WindowsFormShootingGameV2.csproj.CoreCompileInputs.cache
+D:\Project C#\WindowsFormShootingGameV2\obj\Debug\WindowsFormShootingGameV2.exe
+D:\Project C#\WindowsFormShootingGameV2\obj\Debug\WindowsFormShootingGameV2.pdb
+D:\Project C#\WindowsFormShootingGameV2\obj\Debug\WindowsFormShootingGameV2.csprojAssemblyReference.cache

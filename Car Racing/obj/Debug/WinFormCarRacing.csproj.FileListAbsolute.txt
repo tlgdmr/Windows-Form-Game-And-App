@@ -1,0 +1,10 @@
+D:\Project C#\WinFormCarRacing\bin\Debug\WinFormCarRacing.exe.config
+D:\Project C#\WinFormCarRacing\bin\Debug\WinFormCarRacing.exe
+D:\Project C#\WinFormCarRacing\bin\Debug\WinFormCarRacing.pdb
+D:\Project C#\WinFormCarRacing\obj\Debug\WinFormCarRacing.Form1.resources
+D:\Project C#\WinFormCarRacing\obj\Debug\WinFormCarRacing.Properties.Resources.resources
+D:\Project C#\WinFormCarRacing\obj\Debug\WinFormCarRacing.csproj.GenerateResource.cache
+D:\Project C#\WinFormCarRacing\obj\Debug\WinFormCarRacing.csproj.CoreCompileInputs.cache
+D:\Project C#\WinFormCarRacing\obj\Debug\WinFormCarRacing.exe
+D:\Project C#\WinFormCarRacing\obj\Debug\WinFormCarRacing.pdb
+D:\Project C#\WinFormCarRacing\obj\Debug\WinFormCarRacing.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\Project C#\WinFormDefendingGame\bin\Debug\WinFormDefendingGame.exe.config
+D:\Project C#\WinFormDefendingGame\bin\Debug\WinFormDefendingGame.exe
+D:\Project C#\WinFormDefendingGame\bin\Debug\WinFormDefendingGame.pdb
+D:\Project C#\WinFormDefendingGame\obj\Debug\WinFormDefendingGame.Form1.resources
+D:\Project C#\WinFormDefendingGame\obj\Debug\WinFormDefendingGame.Properties.Resources.resources
+D:\Project C#\WinFormDefendingGame\obj\Debug\WinFormDefendingGame.csproj.GenerateResource.cache
+D:\Project C#\WinFormDefendingGame\obj\Debug\WinFormDefendingGame.csproj.CoreCompileInputs.cache
+D:\Project C#\WinFormDefendingGame\obj\Debug\WinFormDefendingGame.exe
+D:\Project C#\WinFormDefendingGame\obj\Debug\WinFormDefendingGame.pdb
+D:\Project C#\WinFormDefendingGame\obj\Debug\WinFormDefendingGame.csprojAssemblyReference.cache

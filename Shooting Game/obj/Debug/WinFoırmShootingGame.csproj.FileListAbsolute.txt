@@ -1,0 +1,10 @@
+D:\Project C#\WinFoırmShootingGame\bin\Debug\WinFoırmShootingGame.exe.config
+D:\Project C#\WinFoırmShootingGame\bin\Debug\WinFoırmShootingGame.exe
+D:\Project C#\WinFoırmShootingGame\bin\Debug\WinFoırmShootingGame.pdb
+D:\Project C#\WinFoırmShootingGame\obj\Debug\WinFoırmShootingGame.Properties.Resources.resources
+D:\Project C#\WinFoırmShootingGame\obj\Debug\WinFoırmShootingGame.csproj.GenerateResource.cache
+D:\Project C#\WinFoırmShootingGame\obj\Debug\WinFoırmShootingGame.csproj.CoreCompileInputs.cache
+D:\Project C#\WinFoırmShootingGame\obj\Debug\WinFoırmShootingGame.exe
+D:\Project C#\WinFoırmShootingGame\obj\Debug\WinFoırmShootingGame.pdb
+D:\Project C#\WinFoırmShootingGame\obj\Debug\WinFoırmShootingGame.Form1.resources
+D:\Project C#\WinFoırmShootingGame\obj\Debug\WinFoırmShootingGame.csprojAssemblyReference.cache

@@ -1,0 +1,10 @@
+D:\Project C#\WindowsFormSimpleCalculaor\bin\Debug\WindowsFormSimpleCalculaor.exe.config
+D:\Project C#\WindowsFormSimpleCalculaor\bin\Debug\WindowsFormSimpleCalculaor.exe
+D:\Project C#\WindowsFormSimpleCalculaor\bin\Debug\WindowsFormSimpleCalculaor.pdb
+D:\Project C#\WindowsFormSimpleCalculaor\obj\Debug\WindowsFormSimpleCalculaor.csprojAssemblyReference.cache
+D:\Project C#\WindowsFormSimpleCalculaor\obj\Debug\WindowsFormSimpleCalculaor.Form1.resources
+D:\Project C#\WindowsFormSimpleCalculaor\obj\Debug\WindowsFormSimpleCalculaor.Properties.Resources.resources
+D:\Project C#\WindowsFormSimpleCalculaor\obj\Debug\WindowsFormSimpleCalculaor.csproj.GenerateResource.cache
+D:\Project C#\WindowsFormSimpleCalculaor\obj\Debug\WindowsFormSimpleCalculaor.csproj.CoreCompileInputs.cache
+D:\Project C#\WindowsFormSimpleCalculaor\obj\Debug\WindowsFormSimpleCalculaor.exe
+D:\Project C#\WindowsFormSimpleCalculaor\obj\Debug\WindowsFormSimpleCalculaor.pdb

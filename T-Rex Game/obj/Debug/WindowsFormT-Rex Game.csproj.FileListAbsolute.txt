@@ -1,0 +1,10 @@
+D:\Project C#\WindowsFormT-Rex Game\obj\Debug\WindowsFormT-Rex Game.csprojAssemblyReference.cache
+D:\Project C#\WindowsFormT-Rex Game\obj\Debug\WindowsFormT_Rex_Game.Form1.resources
+D:\Project C#\WindowsFormT-Rex Game\obj\Debug\WindowsFormT_Rex_Game.Properties.Resources.resources
+D:\Project C#\WindowsFormT-Rex Game\obj\Debug\WindowsFormT-Rex Game.csproj.GenerateResource.cache
+D:\Project C#\WindowsFormT-Rex Game\obj\Debug\WindowsFormT-Rex Game.csproj.CoreCompileInputs.cache
+D:\Project C#\WindowsFormT-Rex Game\bin\Debug\WindowsFormT-Rex Game.exe.config
+D:\Project C#\WindowsFormT-Rex Game\bin\Debug\WindowsFormT-Rex Game.exe
+D:\Project C#\WindowsFormT-Rex Game\bin\Debug\WindowsFormT-Rex Game.pdb
+D:\Project C#\WindowsFormT-Rex Game\obj\Debug\WindowsFormT-Rex Game.exe
+D:\Project C#\WindowsFormT-Rex Game\obj\Debug\WindowsFormT-Rex Game.pdb

@@ -1,0 +1,10 @@
+D:\Project C#\WindowsForm PlatformGaming\bin\Debug\WindowsForm PlatformGaming.exe.config
+D:\Project C#\WindowsForm PlatformGaming\bin\Debug\WindowsForm PlatformGaming.exe
+D:\Project C#\WindowsForm PlatformGaming\bin\Debug\WindowsForm PlatformGaming.pdb
+D:\Project C#\WindowsForm PlatformGaming\obj\Debug\WindowsForm PlatformGaming.csprojAssemblyReference.cache
+D:\Project C#\WindowsForm PlatformGaming\obj\Debug\WindowsForm_PlatformGaming.Platform.resources
+D:\Project C#\WindowsForm PlatformGaming\obj\Debug\WindowsForm_PlatformGaming.Properties.Resources.resources
+D:\Project C#\WindowsForm PlatformGaming\obj\Debug\WindowsForm PlatformGaming.csproj.GenerateResource.cache
+D:\Project C#\WindowsForm PlatformGaming\obj\Debug\WindowsForm PlatformGaming.csproj.CoreCompileInputs.cache
+D:\Project C#\WindowsForm PlatformGaming\obj\Debug\WindowsForm PlatformGaming.exe
+D:\Project C#\WindowsForm PlatformGaming\obj\Debug\WindowsForm PlatformGaming.pdb
